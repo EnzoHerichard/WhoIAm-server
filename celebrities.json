@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "gender": "male",
+        "birth": "1985-02-05",
+        "occupation": "Footballeur",
+        "nationality": "Portugais"
+      },
+      {
+        "name": "Emma Watson",
+        "gender": "female",
+        "birth": "1990-04-15",
+        "occupation": "Actrice",
+        "nationality": "Anglaise"
+      },
+      {
+        "name": "Elon Musk",
+        "gender": "male",
+        "birth": "1971-06-28",
+        "occupation": "Entrepreneur",
+        "nationality": "Americain"
+      }
+]
