@@ -21,7 +21,8 @@ def create_db():
     name TEXT,
     birth TEXT,
     gender TEXT,
-    nationality TEXT
+    nationality TEXT,
+    occupation TEXT
     )
     ''')
     conn.commit()
@@ -35,8 +36,8 @@ def insert_celebrity():
         for celebrity in celebrities:
             try:
                 conn.execute('''
-                INSERT INTO celebrities (name, birth, gender, nationality) VALUES (?, ?, ?, ?)
-                ''', (celebrity['name'], celebrity['birth'], celebrity['gender'], celebrity['nationality']))
+                INSERT INTO celebrities (name, birth, gender, nationality, occupation) VALUES (?, ?, ?, ?, ?)
+                ''', (celebrity['name'], celebrity['birth'], celebrity['gender'], celebrity['nationality'], celebrity['occupation']))
             except sqlite3.IntegrityError as e:
                 print(f"Error inserting {celebrity['name']}: {e}")
     conn.commit()

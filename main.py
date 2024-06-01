@@ -1,9 +1,12 @@
 from flask import Flask, g
+from flask_cors import CORS
+
 import sqlite3
 
 DATABASE = 'database.db'
 
 app = Flask(__name__)
+cors = CORS(app)
 
 def get_db():
     if 'db' not in g:
@@ -26,6 +29,7 @@ def random():
         'birth': celebrity[2],
         'gender': celebrity[3],
         'nationality': celebrity[4],
+        'occupation': celebrity[5]
     }
     return data
 
