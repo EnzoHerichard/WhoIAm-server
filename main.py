@@ -3,6 +3,8 @@ from flask_cors import CORS
 
 import sqlite3
 
+from modules.getAgeOfCelebrity import get_age_of_celebrity
+
 DATABASE = 'database.db'
 
 app = Flask(__name__)
@@ -24,9 +26,10 @@ def random():
     cur = get_db().cursor()
     cur.execute('SELECT * FROM celebrities ORDER BY RANDOM() LIMIT 1')
     celebrity = cur.fetchone()
+    age = get_age_of_celebrity(celebrity[2])
     data = {
         'name': celebrity[1],
-        'birth': celebrity[2],
+        'age': age,
         'gender': celebrity[3],
         'nationality': celebrity[4],
         'occupation': celebrity[5]
