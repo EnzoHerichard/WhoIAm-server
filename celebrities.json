@@ -3,161 +3,161 @@
         "name": "Cristiano Ronaldo",
         "gender": "male",
         "birth": "1985-02-05",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Portugais"
       },
       {
         "name": "Emma Watson",
         "gender": "female",
         "birth": "1990-04-15",
-        "occupation": "Actrice",
+        "occupation": "Cinéma",
         "nationality": "Anglaise"
       },
       {
         "name": "Elon Musk",
         "gender": "male",
         "birth": "1971-06-28",
-        "occupation": "Entrepreneur",
+        "occupation": "Entrepreneuriat",
         "nationality": "Americain"
       },
       {
         "name": "Kylian Mbappe",
         "gender": "male",
         "birth": "1998-12-20",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Francais"
       },
       {
         "name": "Barack Obama",
         "gender": "male",
         "birth": "1961-08-04",
-        "occupation": "Politicien",
+        "occupation": "Politique",
         "nationality": "Americain"
       },
       {
         "name": "Neymar Jr",
         "gender" :"male",
         "birth": "1992-02-05",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Bresilien"
       },
       {
         "name": "Marie Curie",
         "gender": "female",
         "birth": "1867-11-07",
-        "occupation": "Scientifique",
+        "occupation": "Science",
         "nationality": "Polonaise"
       },
       {
         "name": "Albert Einstein",
         "gender": "male",
         "birth": "1879-03-14",
-        "occupation": "Scientifique",
+        "occupation": "Science",
         "nationality": "Allemand"
       },
       {
         "name": "Micheal Jackson",
         "gender": "male",
         "birth": "1958-08-29",
-        "occupation": "Chanteur",
+        "occupation": "Musique",
         "nationality": "Americain"
       },
       {
         "name": "Bill Gates",
         "gender": "male",
         "birth": "1955-10-28",
-        "occupation": "Entrepreneur",
+        "occupation": "Entrepreneuriat",
         "nationality": "Americain"
       },
       {
         "name": "Emmanuel Macron",
         "gender": "male",
         "birth": "1977-12-21",
-        "occupation": "Politicien",
+        "occupation": "Politique",
         "nationality": "Francais"
       },
       {
         "name": "Taylor Swift",
         "gender": "female",
         "birth": "1989-12-13",
-        "occupation": "Chanteuse",
+        "occupation": "Musique",
         "nationality": "Americaine"
     },
     {
         "name": "Lionel Messi",
         "gender": "male",
         "birth": "1987-06-24",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Argentin"
     },
     {
         "name": "Leonardo DiCaprio",
         "gender": "male",
         "birth": "1974-11-11",
-        "occupation": "Acteur",
+        "occupation": "Cinema",
         "nationality": "Americain"
     },
     {
         "name": "Angela Merkel",
         "gender": "female",
         "birth": "1954-07-17",
-        "occupation": "Politicienne",
+        "occupation": "Politique",
         "nationality": "Allemande"
     },
     {
         "name": "Roger Federer",
         "gender": "male",
         "birth": "1981-08-08",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Suisse"
     },
     {
         "name": "Serena Williams",
         "gender": "female",
         "birth": "1981-09-26",
-        "occupation": "Sportive",
+        "occupation": "Sport",
         "nationality": "Americaine"
     },
     {
         "name": "Shakira",
         "gender": "female",
         "birth": "1977-02-02",
-        "occupation": "Chanteuse",
+        "occupation": "Musique",
         "nationality": "Colombienne"
     },
     {
         "name": "Stephen Hawking",
         "gender": "male",
         "birth": "1942-01-08",
-        "occupation": "Scientifique",
+        "occupation": "Science",
         "nationality": "Britannique"
     },
     {
         "name": "Adele",
         "gender": "female",
         "birth": "1988-05-05",
-        "occupation": "Chanteuse",
+        "occupation": "Musique",
         "nationality": "Anglaise"
     },
     {
         "name": "Usain Bolt",
         "gender": "male",
         "birth": "1986-08-21",
-        "occupation": "Sportif",
+        "occupation": "Sport",
         "nationality": "Jamaicain"
     },
     {
       "name": "Rihanna",
       "gender": "female",
       "birth": "1988-02-20",
-      "occupation": "Chanteuse",
+      "occupation": "Musique",
       "nationality": "Barbadienne"
     },
     {
       "name": "Will Smith",
       "gender": "male",
       "birth": "1968-09-25",
-      "occupation": "Acteur",
+      "occupation": "Cinema",
       "nationality": "Americain"
     }
 
