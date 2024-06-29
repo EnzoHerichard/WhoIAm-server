@@ -3,7 +3,7 @@
         "name": "Cristiano Ronaldo",
         "gender": "male",
         "birth": "1985-02-05",
-        "occupation": "Footballeur",
+        "occupation": "Sportif",
         "nationality": "Portugais"
       },
       {
@@ -19,5 +19,146 @@
         "birth": "1971-06-28",
         "occupation": "Entrepreneur",
         "nationality": "Americain"
-      }
+      },
+      {
+        "name": "Kylian Mbappe",
+        "gender": "male",
+        "birth": "1998-12-20",
+        "occupation": "Sportif",
+        "nationality": "Francais"
+      },
+      {
+        "name": "Barack Obama",
+        "gender": "male",
+        "birth": "1961-08-04",
+        "occupation": "Politicien",
+        "nationality": "Americain"
+      },
+      {
+        "name": "Neymar Jr",
+        "gender" :"male",
+        "birth": "1992-02-05",
+        "occupation": "Sportif",
+        "nationality": "Bresilien"
+      },
+      {
+        "name": "Marie Curie",
+        "gender": "female",
+        "birth": "1867-11-07",
+        "occupation": "Scientifique",
+        "nationality": "Polonaise"
+      },
+      {
+        "name": "Albert Einstein",
+        "gender": "male",
+        "birth": "1879-03-14",
+        "occupation": "Scientifique",
+        "nationality": "Allemand"
+      },
+      {
+        "name": "Micheal Jackson",
+        "gender": "male",
+        "birth": "1958-08-29",
+        "occupation": "Chanteur",
+        "nationality": "Americain"
+      },
+      {
+        "name": "Bill Gates",
+        "gender": "male",
+        "birth": "1955-10-28",
+        "occupation": "Entrepreneur",
+        "nationality": "Americain"
+      },
+      {
+        "name": "Emmanuel Macron",
+        "gender": "male",
+        "birth": "1977-12-21",
+        "occupation": "Politicien",
+        "nationality": "Francais"
+      },
+      {
+        "name": "Taylor Swift",
+        "gender": "female",
+        "birth": "1989-12-13",
+        "occupation": "Chanteuse",
+        "nationality": "Americaine"
+    },
+    {
+        "name": "Lionel Messi",
+        "gender": "male",
+        "birth": "1987-06-24",
+        "occupation": "Sportif",
+        "nationality": "Argentin"
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "gender": "male",
+        "birth": "1974-11-11",
+        "occupation": "Acteur",
+        "nationality": "Americain"
+    },
+    {
+        "name": "Angela Merkel",
+        "gender": "female",
+        "birth": "1954-07-17",
+        "occupation": "Politicienne",
+        "nationality": "Allemande"
+    },
+    {
+        "name": "Roger Federer",
+        "gender": "male",
+        "birth": "1981-08-08",
+        "occupation": "Sportif",
+        "nationality": "Suisse"
+    },
+    {
+        "name": "Serena Williams",
+        "gender": "female",
+        "birth": "1981-09-26",
+        "occupation": "Sportive",
+        "nationality": "Americaine"
+    },
+    {
+        "name": "Shakira",
+        "gender": "female",
+        "birth": "1977-02-02",
+        "occupation": "Chanteuse",
+        "nationality": "Colombienne"
+    },
+    {
+        "name": "Stephen Hawking",
+        "gender": "male",
+        "birth": "1942-01-08",
+        "occupation": "Scientifique",
+        "nationality": "Britannique"
+    },
+    {
+        "name": "Adele",
+        "gender": "female",
+        "birth": "1988-05-05",
+        "occupation": "Chanteuse",
+        "nationality": "Anglaise"
+    },
+    {
+        "name": "Usain Bolt",
+        "gender": "male",
+        "birth": "1986-08-21",
+        "occupation": "Sportif",
+        "nationality": "Jamaicain"
+    },
+    {
+      "name": "Rihanna",
+      "gender": "female",
+      "birth": "1988-02-20",
+      "occupation": "Chanteuse",
+      "nationality": "Barbadienne"
+    },
+    {
+      "name": "Will Smith",
+      "gender": "male",
+      "birth": "1968-09-25",
+      "occupation": "Acteur",
+      "nationality": "Americain"
+    }
+
 ]
